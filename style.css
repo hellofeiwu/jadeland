@@ -29,10 +29,9 @@ section {
 
 body {
   background: url(http://s.cdpn.io/3/blurry-blue.jpg);
-  background-attachment: fixed;
   background-size: cover;
   padding: 30px;
-  height: 100%;
+  position: relative;
 }
 
 .come-in {
