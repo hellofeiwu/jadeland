@@ -1,0 +1,324 @@
+html {overflow-y: scroll; overflow-x: hidden;}
+body {
+	font-family: Verdana,"PT Sans", "Trebuchet MS", Arial, Tahoma, sans-serif; 
+	background:#ffffff; 
+	color: #000;
+}
+
+.wrapper {
+	width: 96%; 
+	max-width: 1200px;
+	margin: 0 auto;
+}
+.header:after {content:"";height:0;display:block;visibility:hidden;clear:both;}
+.header {
+	background: #ffffff; 
+	border-bottom: 0.1em solid #D6006B;
+}
+.header .branding-title {
+	float: left; 
+	text-shadow: none; 
+	color: transparent; 
+	padding: 0.875em 0;
+	margin: 0;
+}
+.header .branding-title a {
+	color:#222;
+	font-family: 'Exo 2', sans-serif; 
+	font-weight: 900;
+	font-style: italic;
+	text-decoration: none;
+	text-transform: uppercase;
+	display: block; 
+}
+.header .nav {
+float: right; 
+margin: 0; 
+z-index: 99999999;
+}
+.header .nav li {
+display: inline-block; 
+margin: 0 0 0 5em; 
+list-style: none;
+}
+
+.header .nav li a {
+    color: #000;
+	font-size: 0.9em;
+    text-decoration: none;
+    display: block;
+    line-height: 5em;
+    padding: 0.625em 0;
+    text-align: center;
+    white-space: nowrap; 
+}
+.header .nav li.on a {
+	color: #D6006B;
+	border-bottom: 1px solid #D6006B;
+}
+.header .nav li a:hover, .header .nav li a:active {color: #D6006B;}
+.header .nav li.about a {background-position: 0px 0px;}
+.header .nav li.contact a {background-position: 0px -105px;}
+.header .nav li.careers a {background-position: 0px -216px;}
+.content {
+	width:100%;
+	text-align: center;
+	min-height: 25em; 
+	background: white;
+}
+
+.content-left {
+	display: inline;
+	margin: 0 2%;
+}
+
+.content-left p{
+	font-size:0.8em;
+}
+
+.FullPage {
+	margin: 0 2%;
+}
+
+.FullPage p{
+	font-size:0.8em;
+}
+
+.sidebar{
+	position: fixed;
+	top:10em;
+	display: inline;
+}
+
+.sidebar p{
+	font-size:0.8em;
+}
+
+.footer {
+    background: #ffffff; 
+	border-top: 0.1em solid #D6006B;
+    padding: 0.7em 0;
+    font-size: 1em;
+    color: #222;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.footer ul {margin: 0; padding-left: 1em; float: left;}
+.footer ul li {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+    text-transform: lowercase;
+}
+.footer ul li:after {content:" | "}
+.footer ul li:last-child:after {content:"";}
+.footer p {
+	font-size:0.71em;
+	margin: 0; 
+	text-align: right; 
+	padding-right: 1em;
+}
+.footer a {
+	text-decoration: none;
+	color: #222; 
+	margin: 0 0.6em;
+}
+
+.footer a:hover {
+	color: #999; 
+}
+
+.footer li:first-child a {margin-left: 0.2em;}
+
+
+.column {
+	width: 30.3%;
+	margin: 0 1.5% 0 1.5%;
+	float: left;
+	display: block;
+}
+
+.screenshot {
+	width: 100%;
+	display: inline-block;
+	padding-bottom: 6%;
+}
+
+.screenshot p {
+	margin: 2% 0 0 0;
+	font-weight: 300;
+	font-size: 0.7em;
+	color:#999;
+}
+
+.screenshot a{
+    text-decoration:none; /* Makes sure the link   doesn't get underlined */
+    z-index:10; /* raises anchor tag above everything else in div */
+    background-color:white; /*workaround to make clickable in IE */
+    filter: alpha(opacity=1); /*workaround to make clickable in IE */
+}
+
+.screenshot a:hover  {
+    opacity: 0.9; /*workaround to make clickable in IE */
+}
+
+#sort {
+	list-style-type: none;
+	display: inline-block;
+}
+
+#sort a{
+	text-decoration:none; /* Makes sure the link   doesn't get underlined */
+	font-size:0.7em;
+	padding:0 1em;
+}
+
+#sort a:hover{color: #D6006B;}
+
+.screenshot img {
+    width: 100%;
+   -moz-box-shadow: 2px 2px 5px #979797;
+   -webkit-box-shadow: 2px 2px 5px #979797;
+   box-shadow: 2px 2px 5px #979797;
+
+}
+
+.PreNext{
+	padding: 0;
+	font-size: 1.5em;
+	margin: 0;
+}
+
+.PreNext li{
+	margin-right: 0.2em;
+}
+
+.PreNext a{
+	color:#222;
+}
+
+.PreNext a:hover{
+	color:#999;
+}
+
+#social-icons {
+    height: 19px;
+}
+
+#social-icons a {
+    width: 35px;
+    float: left;
+    padding-top: 15px;
+}
+
+#social-icons img {
+    height: 25px;
+    width: 25px;
+}
+
+div.img {
+    width: 816px;
+}
+div.img img {
+    display:inline;
+    width:392px;
+    height: 221px;
+    padding: 0px 16px 15px 0px;
+  }
+
+/**** Isotope filtering ****/
+
+.isotope-item {
+  z-index: 2;
+}
+
+.isotope-hidden.isotope-item {
+  pointer-events: none;
+  z-index: 1;
+}
+
+
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+  -webkit-transition-duration: 0.8s;
+     -moz-transition-duration: 0.8s;
+      -ms-transition-duration: 0.8s;
+       -o-transition-duration: 0.8s;
+          transition-duration: 0.8s;
+}
+
+.isotope {
+  -webkit-transition-property: height, width;
+     -moz-transition-property: height, width;
+      -ms-transition-property: height, width;
+       -o-transition-property: height, width;
+          transition-property: height, width;
+}
+
+.isotope .isotope-item {
+  -webkit-transition-property: -webkit-transform, opacity;
+     -moz-transition-property:    -moz-transform, opacity;
+      -ms-transition-property:     -ms-transform, opacity;
+       -o-transition-property:      -o-transform, opacity;
+          transition-property:         transform, opacity;
+}
+
+/**** disabling Isotope CSS3 transitions ****/
+
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+     -moz-transition-duration: 0s;
+      -ms-transition-duration: 0s;
+       -o-transition-duration: 0s;
+          transition-duration: 0s;
+}
+
+#sort li{
+	float:left;
+    margin: 0 0.5em 0 0;
+}
+
+.current a{
+	color:#D6006B;
+}
+
+/**** slid in effect ****/
+.come-in {
+  -webkit-transform: translateY(150px);
+  -webkit-animation: come-in 0.8s ease forwards;
+}
+
+.come-in:nth-child(odd) {
+  -webkit-animation-duration: 0.6s;
+}
+
+.already-visible {
+  -webkit-transform: translateY(0);
+  -webkit-animation: none;
+}
+
+@-webkit-keyframes come-in {
+  to {
+    -webkit-transform: translateY(0);
+  }
+}
+/**** slid in effect ends****/
+
+
+
+/*media queries*/
+/*ipad---------*/
+@media screen and (max-width:1024px) {
+#gallery {
+   width: 75%;
+     }
+.screenshot {
+	width: 50%;
+	height: 185px;
+}
+.screenshot p {
+	height: 48.5%;
+}

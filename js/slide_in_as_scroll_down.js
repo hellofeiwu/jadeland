@@ -32,7 +32,7 @@ $(document).ready(function () {
 
     var win = $(window);
 
-    var allMods = $(".module");
+    var allMods = $(".screenshot");
 
     allMods.each(function(i, el) {
       var el = $(el);
