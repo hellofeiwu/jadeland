@@ -4,7 +4,7 @@
 ?>
 <?php include('inc/header.php'); ?>
 <div class="content">
-<ul id="sort">
+<ul class="sort">
   <li><a href="#" data-filter="*">ALL</a></li>
   <li><a href="#" data-filter=".ux-design">UX&nbsp;DESIGN</a></li>
   <li><a href="#" data-filter=".graphic-design">GRAPHIC&nbsp;DESIGN</a></li>

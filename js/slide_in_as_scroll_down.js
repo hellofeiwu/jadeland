@@ -28,7 +28,7 @@
     
 })(jQuery);
 
-$(document).ready(function () {
+$(window).load(function () {
 
     var win = $(window);
 
