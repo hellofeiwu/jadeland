@@ -5,6 +5,10 @@ body {
 	color: #000;
 }
 
+img, object{
+max-width: 100%;
+}
+
 .wrapper {
 	width: 96%; 
 	max-width: 1200px;
@@ -134,6 +138,23 @@ list-style: none;
 	margin: 0 1.5% 0 1.5%;
 	float: left;
 	display: block;
+}
+
+.social{
+	display:none;
+	padding:0;
+	font-size: 3em;
+	margin:1% 0 2.5% 0;
+}
+
+.social a {
+text-decoration: none;
+color: #222;
+margin: 0 0.6em;
+}
+
+.social a:hover {
+	color: #999; 
 }
 
 .screenshot {
@@ -279,15 +300,153 @@ list-style: none;
 
 
 /*media queries*/
-/*ipad---------*/
-@media screen and (max-width:1024px) {
-#gallery {
-   width: 75%;
-     }
-.screenshot {
-	width: 50%;
-	height: 185px;
+
+/*ipad-----*/
+@media screen and (max-width:768px){
+
+.branding-title{
+	width:100%;
+	font-size:6em;
+	text-align:center;
+	}
+	
+.header .nav li {
+	margin: 0 6em 0 0;
 }
-.screenshot p {
-	height: 48.5%;
+	
+.column {
+	width: 97%;
 }
+
+.sidebar{
+	top:15em;
+}
+
+.footer ul {
+width:100%;
+font-size: 3em;
+text-align: center;
+margin-bottom: 2%;
+}
+
+.footer p {
+font-size: 1em;
+text-align: center;
+}
+
+}
+
+/*iphone---------*/
+@media screen and (max-width:650px) {
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+	width:100%;
+}
+
+.branding-title{
+	width:100%;
+	font-size:6em;
+	text-align:center;
+	}
+	
+.header .nav li {
+	margin: 0 4em 0 0;
+}
+	
+.sort {
+	display: none;
+}
+	
+.column {
+	width: 97%;
+}
+
+.social{
+	display:block;
+}
+
+.footer ul {
+width:100%;
+font-size: 3em;
+text-align: center;
+margin-bottom: 2%;
+}
+
+.footer p {
+font-size: 1em;
+text-align: center;
+}
+
+}
+
+@media screen and (max-width:560px) {
+
+.grid_1,
+.grid_2,
+.grid_3,
+.grid_4,
+.grid_5,
+.grid_6,
+.grid_7,
+.grid_8,
+.grid_9,
+.grid_10,
+.grid_11,
+.grid_12 {
+	width:100%;
+}
+
+.branding-title{
+	width:100%;
+	font-size:3em;
+	text-align:center;
+	}
+	
+.header .nav {
+	padding:0 0 0 1em;
+	float:none;
+}
+	
+.header .nav li {
+	margin: 0 5.8% 0 0;
+}
+	
+.sort {
+	display: none;
+}
+	
+.column {
+	width: 97%;
+}
+
+.social{
+	display:block;
+	font-size: 2.5em;
+}
+
+.footer ul {
+width:100%;
+font-size: 2.5em;
+text-align: center;
+margin-bottom: 2%;
+}
+
+.footer p {
+font-size: 1em;
+text-align: center;
+}
+
+}
+
+

@@ -13,6 +13,12 @@
   <li><a href="#" data-filter=".photography">PHOTOGRAPHY</a></li>
 </ul>
 
+<ul class="social">		
+				<a target="_blank" href="https://www.facebook.com/figo.wu"><i class="fa fa-facebook-square"></i></a>
+				<a target="_blank" href="http://instagram.com/figowu"><i class="fa fa-instagram"></i></a>
+				<a target="_blank" href="https://vimeo.com/wufei"><i class="fa fa-vimeo-square"></i></a>
+			</ul>
+
 <div>
 	<div class="column">
 		<div class="screenshot ux-design">
@@ -23,7 +29,7 @@
 		</div>
 
 		<div class="screenshot ux-design graphic-design web-design photography">
-		<a href="http://wufei.us/honey-bits"><img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_honeybits-300x168.jpg"/></a>
+		<a href="http://wufei.us/honey-bits"><img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_honeybits.jpg"/></a>
 		<p>
 		Honey Bits
 		</p>
@@ -71,7 +77,7 @@
 
 		<div class="screenshot motion">
 		<a href="http://wufei.us/abraha"></a>
-		<img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_abraha-1024x576.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_abraha.jpg"/>
 		<p>
 		Abraha
 		</p>
@@ -81,7 +87,7 @@
 	<div class="column">
 		<div class="screenshot ux-design graphic-design">
 		<a href="http://wufei.us/dealfinder"></a>
-		<img src="http://wufei.us/wp-content/uploads/2014/07/screenshot_dealfinder-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2014/07/screenshot_dealfinder.jpg"/>
 		<p>
 		Dealfinder
 		</p>
@@ -89,7 +95,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/gsa"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/10/GSA-Opening_style_V2_5-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/10/GSA-Opening_style_V2_5.jpg"/>
 		<p>
 		GSA
 		</p>
@@ -104,7 +110,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/emerging-issues-forum"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/03/Comp-1-0001204-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/03/Comp-1-0001204.jpg"/>
 		<p>
 		Emerging Issues Forum
 		</p>
@@ -112,7 +118,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/texturized"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/03/opening.c4d-0-00-33-11-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/03/opening.c4d-0-00-33-11.jpg"/>
 		<p>
 		Texturized
 		</p>
@@ -120,7 +126,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/flourish"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/flourish-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/02/flourish.jpg"/>
 		<p>
 		Flourish
 		</p>
@@ -128,7 +134,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/norman-mclaren"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/Norman2-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/02/Norman2.jpg"/>
 		<p>
 		Norman Mclaren
 		</p>
@@ -136,7 +142,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/light-box"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/lightbox-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/02/lightbox.jpg"/>
 		<p>
 		Light Box
 		</p>
@@ -146,7 +152,7 @@
 	<div class="column">
 		<div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/the-book"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/book-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/02/book.jpg"/>
 		<p>
 		The Book
 		</p>
@@ -154,7 +160,7 @@
 
 		<div class="screenshot motion">
 		<a href="http://wufei.us/stop-motion"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/StopMo-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/02/StopMo.jpg"/>
 		<p>
 		Stop Motion
 		</p>
@@ -162,7 +168,7 @@
 
 		<div class="screenshot motion">
 		<a href="http://wufei.us/rube-goldberg"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/rube-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/02/rube.jpg"/>
 		<p>
 		Rube Goldberg
 		</p>
@@ -170,7 +176,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="http://wufei.us/cat_wars"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/08/Cat-Wars-300x168.jpg"/>
+		<img src="http://wufei.us/wp-content/uploads/2011/08/Cat-Wars.jpg"/>
 		<p>
 		Cat Wars
 		</p>

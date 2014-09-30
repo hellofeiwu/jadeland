@@ -1,6 +1,8 @@
 <!doctype html>
 <html>
 <head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale = 1.0, user-scalable = no">
 	<title><?php echo $pageTitle; ?></title>
 	<link rel="stylesheet" href="css/normalize.css" type="text/css" media="screen">
 	<link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">
@@ -13,7 +15,9 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="http://isotope.metafizzy.co/js/isotope-docs.min.js" type="text/javascript"></script>
 	<script src="js/isotope.js" type="text/javascript"></script>
+	<!--
 	<script src="js/slide_in_as_scroll_down.js" type="text/javascript"></script>
+	-->
 	<script src="jquery.fitvids.js"></script>
 	<script src="http://smellslikebakin.com/responsive/external/matchmedia.js"></script>
 	<script src="http://smellslikebakin.com/responsive/picturefill.js"></script>
