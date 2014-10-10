@@ -10,7 +10,7 @@
 				<a target="_blank" href="https://vimeo.com/wufei"><i class="fa fa-vimeo-square"></i></a>
 			</ul>
 
-			<p>&copy; <?php echo date('Y'); ?> Qiaoguo,Inc</p>
+			<p>&copy; <?php echo date('Y'); ?> JadeLand,Inc</p>
 
 		</div>
 	

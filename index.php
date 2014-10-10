@@ -1,5 +1,5 @@
 <?php
-	$pageTitle = "QiaoGuo,Inc";
+	$pageTitle = "JadeLand,Inc";
 	$section = "home";
 ?>
 <?php include('inc/header.php'); ?>
