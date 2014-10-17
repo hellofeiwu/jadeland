@@ -32,7 +32,7 @@
 	<div class="header">
 	<div class="container clearfix">
 		<div class="wrapper">
-			<h1 class="branding-title"><a href="./">JadeLand</a></h1>
+			<h1 class="logo"><a href="./"><img src="img/logo.gif"/></a></h1>
 			<ul class="nav">
 				<li class="home <?php if($section == "home") {echo "on";} ?>"><a href="index.php">Projects</a></li>
 				<li class="about <?php if($section == "about") {echo "on";} ?>"><a href="about.php">About</a></li>

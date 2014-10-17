@@ -11,45 +11,50 @@
     margin-top: 1%;
 ">
 	<p>
-	QiaoGuo is a cross-disciplinary creative agency and production company that believes in the simple tenet that good design and powerful storytelling can make the world a better place. We like to create experiences that marry technology and design seamlessly into new things.
+	Jade Land is a cross-disciplinary creative agency and production company. We are dedicated to create experiences that marry technology and design seamlessly into great things. We believe in the simple tenet that good design can make better life. 
 
-Founded by Jody Sugrue, Kate LaRue, and Mike Schmidt, Morel’s creative team has been making award winning work since the early days of the internet. Natural collaborators with genuine curiosity about the world, the Morel team takes great pride in shepherding ideas from conversation to concept to execution.
+Jade Land has been making award winning work for many years. Natural collaborators with genuine curiosity about the world, the Jade Land team takes great pride in cultivating ideas from concept to execution.
 
-As designers, journalists, strategists, filmmakers and interactive nerds, Morel provides a variety of creative services for clients who care about impact. 
+As designers, engineers, artists, curators, scientists, Jade Land provides a variety of creative services for clients who care about good design. 
+</p>
 
 <h5>Approach</h5>
 <p>
-We like to collaborate with new people, companies, and studios with the goal of looking for unexpected and delightful solutions. We do this by:
+We are happy to collaborate with interesting individuals, organizations with the goal of finding unexpected and delightful design solutions. We do this by:
 </p>
 <p>
-Thinking of different ways to tell stories</br>
-Designing frameworks & systems</br>
-Curating & producing content
+● Delicate craftsmanship</br>
+● Out of the box thinking</br>
+● Curating & strategic planning
+</p>
+
+<h5>Assets</h5>
+
+<p>
+As designers, engineers, artists, curators, scientists, we provide creative solutions extend across print, digital, broadcast and industrial design; all in the name of delivering the best user experience. To get specific, we do:
 </p>
 <p>
-We are designers, journalists, curators, coffee addicts. We design experiences, whether it's print, digital, broadcast or environmental; all in the name of telling good stories. To get specific, we do:
-</p>
-<p>
-Content Strategy</br>
-Creative & Art Direction</br>
-Experience design (print, motion, interactive)</br>
-Branding</br>
-Multimedia
+● Creative & Art Direction</br>
+● Print/Motion/Interactive Design</br>
+● Industrial Design</br>
+● Exhibition Curate</br>
+● Branding</br>
+● Multimedia
 </p>
 
-<h5>Why the name QiaoGuo?</h5>
-<p>
-Yes, we named our company after a mushroom. But hear us out. Morels are easy to identify but hard to find. They are sought after because of their delicious taste, but also fun to look for because of their elusiveness. False morels are everywhere. But so are real ones. Good stories and ideas are out there. We believe in the joy of the hunt.
+<h5>Collaborators</h5>
+<ul class="clients">
+<li><img src="img/clients/clients0.jpg"/></li>
+<li><img src="img/clients/clients1.jpg"/></li>
+<li><img src="img/clients/clients2.jpg"/></li>
+<li><img src="img/clients/clients3.jpg"/></li>
+<li><img src="img/clients/clients4.jpg"/></li>
+<li><img src="img/clients/clients5.jpg"/></li>
+<li><img src="img/clients/clients6.jpg"/></li>
+<li><img src="img/clients/clients7.jpg"/></li>
+<li><img src="img/clients/clients8.jpg"/></li>
+<li><img src="img/clients/clients9.jpg"/></li>
+</ul>
 
-"The small, seductive, yet humble morel [is the] lord of the orchards and forests. So esteemed is this fungus with the hollow pitted hat that its admirers will travel hundreds of miles in its pursuit."
-
-Collaborators
-
-National Geographic, Showtime, The Globe and Mail, Air Canada, CBC, Nickelodeon, Sundance Channel, YTV, frog design
-
-Awards
-
-Creative Review Annual, National Magazine Awards, Society of Newspaper Design, Picture of the Year International, Society of Publication Designers, The FWA, PromaxBDA, Webby Awards.
-</p>
-	</div>
+</div>
 <?php include('inc/footer.php'); ?>

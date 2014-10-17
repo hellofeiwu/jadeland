@@ -9,46 +9,43 @@
     width: 100%;
     margin-top: 1%;
 ">
-	<p>
-	QiaoGuo is a cross-disciplinary creative agency and production company that believes in the simple tenet that good design and powerful storytelling can make the world a better place. We like to create experiences that marry technology and design seamlessly into new things.
 
-Founded by Jody Sugrue, Kate LaRue, and Mike Schmidt, Morel’s creative team has been making award winning work since the early days of the internet. Natural collaborators with genuine curiosity about the world, the Morel team takes great pride in shepherding ideas from conversation to concept to execution.
-
-As designers, journalists, strategists, filmmakers and interactive nerds, Morel provides a variety of creative services for clients who care about impact. 
-
-<h5>Approach</h5>
+<h5>Work with Us</h5>
 <p>
-We like to collaborate with new people, companies, and studios with the goal of looking for unexpected and delightful solutions. We do this by:
+Want to work with smart, talented, motivated, generally awesome people just like you?</br>
+Speak up! Get in touch with Jade Land.
 </p>
 <p>
-Thinking of different ways to tell stories</br>
-Designing frameworks & systems</br>
-Curating & producing content
+Please send your resume and the demo of your work to <i>hellojadeland@gmail.com</i>.
+</p>
+<h5>People We Look for</h5>
+<p>
+● Account Supervisors</br>
+● Art Directors</br>
+● Copywriters</br>
+● Creative Technologists</br>
+● Interaction Designers</br>
+● Media Planners</br>
+● Programmers</br>
+● Producers</br>
+● Strategists
+</p>
+<h5>Internships at Jade Land</h5>
+<p>
+Summer application window:</br>
+<i>Feb 1-Apr 1</i>
 </p>
 <p>
-We are designers, journalists, curators, coffee addicts. We design experiences, whether it's print, digital, broadcast or environmental; all in the name of telling good stories. To get specific, we do:
+Fall application window:</br>
+<i>Jun 1-Aug 15</i>
 </p>
 <p>
-Content Strategy</br>
-Creative & Art Direction</br>
-Experience design (print, motion, interactive)</br>
-Branding</br>
-Multimedia
+Spring application window:</br>
+<i>Sept 1-Nov 1</i>
 </p>
-
-<h5>Why the name QiaoGuo?</h5>
 <p>
-Yes, we named our company after a mushroom. But hear us out. Morels are easy to identify but hard to find. They are sought after because of their delicious taste, but also fun to look for because of their elusiveness. False morels are everywhere. But so are real ones. Good stories and ideas are out there. We believe in the joy of the hunt.
 
-"The small, seductive, yet humble morel [is the] lord of the orchards and forests. So esteemed is this fungus with the hollow pitted hat that its admirers will travel hundreds of miles in its pursuit."
-
-Collaborators
-
-National Geographic, Showtime, The Globe and Mail, Air Canada, CBC, Nickelodeon, Sundance Channel, YTV, frog design
-
-Awards
-
-Creative Review Annual, National Magazine Awards, Society of Newspaper Design, Picture of the Year International, Society of Publication Designers, The FWA, PromaxBDA, Webby Awards.
 </p>
+
 	</div>
 <?php include('inc/footer.php'); ?>

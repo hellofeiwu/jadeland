@@ -1,6 +1,6 @@
 <?php
 	// Create connection
-		$con=mysqli_connect("wufei2009.db.12212913.hostedresource.com","wufei2009","w3571wufei@W","wufei2009");
+		$con=mysqli_connect("mysql5.000webhost.com","a3774223_jade","jadeland1","a3774223_project");
 	// Check connection
 	if (mysqli_connect_errno()) {
 	  echo "Failed to connect to MySQL: " . mysqli_connect_error();

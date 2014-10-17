@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `wufei2009` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `wufei2009`;
+CREATE DATABASE  IF NOT EXISTS `a3774223_project` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `a3774223_project`;
 -- MySQL dump 10.13  Distrib 5.6.17, for Win32 (x86)
 --
--- Host: wufei2009.db.12212913.hostedresource.com    Database: wufei2009
+-- Host: mysql5.000webhost.com    Database: a3774223_project
 -- ------------------------------------------------------
 -- Server version	5.5
 
