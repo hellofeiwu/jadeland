@@ -15,16 +15,12 @@
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	<script src="http://isotope.metafizzy.co/js/isotope-docs.min.js" type="text/javascript"></script>
 	<script src="js/isotope.js" type="text/javascript"></script>
+	<script src="js/jquery.fitvids.js" type="text/javascript"></script>
 	<!--
 	<script src="js/slide_in_as_scroll_down.js" type="text/javascript"></script>
 	-->
-	<script src="jquery.fitvids.js"></script>
 	<script src="http://smellslikebakin.com/responsive/external/matchmedia.js"></script>
 	<script src="http://smellslikebakin.com/responsive/picturefill.js"></script>
-	<script src="jquery.fittext.js"></script>
-	<script type="text/javascript">
-		$("#fittext1").fitText(2.2);
-	</script>
 	
 </head>
 <body>

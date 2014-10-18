@@ -22,14 +22,14 @@
 <div>
 	<div class="column">
 		<div class="screenshot ux-design">
-		<a href="meet.php"><img src="http://freshbowlfusion.com/wp-content/uploads/2014/09/pandora_vent.jpg"/></a>
+		<a href="meet.php"><img src="http://wufei.us/wp-content/uploads/2014/07/screenshot_meet.jpg"/></a>
 		<p>
 		Meet
 		</p>
 		</div>
 
 		<div class="screenshot ux-design graphic-design web-design photography">
-		<a href="http://wufei.us/honey-bits"><img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_honeybits.jpg"/></a>
+		<a href="honey_bits.php"><img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_honeybits.jpg"/></a>
 		<p>
 		Honey Bits
 		</p>
@@ -86,23 +86,25 @@
 
 	<div class="column">
 		<div class="screenshot ux-design graphic-design">
-		<a href="http://wufei.us/dealfinder"></a>
+		<a href="dealfinder.php">
 		<img src="http://wufei.us/wp-content/uploads/2014/07/screenshot_dealfinder.jpg"/>
+		</a>
 		<p>
 		Dealfinder
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/gsa"></a>
+		<a href="gsa.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/10/GSA-Opening_style_V2_5.jpg"/>
+		</a>
 		<p>
 		GSA
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="art_to_wear.php"><img src="http://freshbowlfusion.com/wp-content/uploads/2014/09/pandora_vent.jpg"/></a>
+		<a href="art_to_wear.php"><img src="http://wufei.us/wp-content/uploads/2011/09/ArtToWear.jpg"/></a>
 		<p>
 		Art to Wear
 		</p>
@@ -155,22 +157,6 @@
 		<img src="http://wufei.us/wp-content/uploads/2011/02/book.jpg"/>
 		<p>
 		The Book
-		</p>
-		</div>
-
-		<div class="screenshot motion">
-		<a href="http://wufei.us/stop-motion"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/StopMo.jpg"/>
-		<p>
-		Stop Motion
-		</p>
-		</div>
-
-		<div class="screenshot motion">
-		<a href="http://wufei.us/rube-goldberg"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/rube.jpg"/>
-		<p>
-		Rube Goldberg
 		</p>
 		</div>
 

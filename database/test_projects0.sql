@@ -1,8 +1,8 @@
-CREATE DATABASE  IF NOT EXISTS `a3774223_project` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `a3774223_project`;
+CREATE DATABASE  IF NOT EXISTS `u109766333_list0` /*!40100 DEFAULT CHARACTER SET utf8 */;
+USE `u109766333_list0`;
 -- MySQL dump 10.13  Distrib 5.6.17, for Win32 (x86)
 --
--- Host: mysql5.000webhost.com    Database: a3774223_project
+-- Host: mysql.hostinger.co.uk    Database: u109766333_list0
 -- ------------------------------------------------------
 -- Server version	5.5
 

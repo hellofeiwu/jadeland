@@ -5,8 +5,13 @@ body {
 	color: #000;
 }
 
-img, object{
+img, object, iframe{
 max-width: 100%;
+}
+
+a{
+	text-decoration: none;
+	color: #000;
 }
 
 .wrapper {
@@ -17,7 +22,7 @@ max-width: 100%;
 .header:after {content:"";height:0;display:block;visibility:hidden;clear:both;}
 .header {
 	background: #ffffff; 
-	border-bottom: 0.1em solid #D6006B;
+	border-bottom: 0.1em solid #C7A500;
 }
 .header .logo {
 	float: left; 
@@ -66,10 +71,10 @@ list-style: none;
     white-space: nowrap; 
 }
 .header .nav li.on a {
-	color: #D6006B;
-	border-bottom: 0.1em solid #D6006B;
+	color: #C7A500;
+	border-bottom: 0.1em solid #C7A500;
 }
-.header .nav li a:hover, .header .nav li a:active {color: #D6006B;}
+.header .nav li a:hover, .header .nav li a:active {color: #C7A500;}
 
 .content {
 	width:100%;
@@ -85,6 +90,10 @@ list-style: none;
 
 .content-left p{
 	font-size:0.8em;
+}
+
+.content-left img, .fit-vids {
+	margin-bottom: 1%;
 }
 
 .FullPage {
@@ -107,7 +116,7 @@ list-style: none;
 
 .footer {
     background: #ffffff; 
-	border-top: 0.1em solid #D6006B;
+	border-top: 0.1em solid #C7A500;
     padding: 0.7em 0;
     font-size: 1em;
     color: #222;
@@ -214,7 +223,7 @@ margin: 0 0.6em;
 	font-size:0.7em;
 }
 
-.sort a:hover{color: #D6006B;}
+.sort a:hover{color: #C7A500;}
 
 .sort li{
   float:left;
@@ -222,7 +231,7 @@ margin: 0 0.6em;
 }
 
 .current a{
-  color:#D6006B;
+  color:#C7A500;
 }
 
 .screenshot img {
