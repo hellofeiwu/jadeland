@@ -396,7 +396,12 @@ margin: 0 0.6em;
 }
 
 .sidebar{
-	top:15em;
+	position: static;
+	margin:0 2% 3% 2%;
+}
+
+.sidebar a:last-child{
+	float: right;
 }
 
 .footer ul {

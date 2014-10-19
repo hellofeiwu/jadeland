@@ -36,52 +36,51 @@
 		</div>
 
 		<div class="screenshot ux-design graphic-design motion">
-		<a href="http://wufei.us/2k-ux"></a>
+		<a href="2k_ux.php">
 		<img src="http://wufei.us/wp-content/uploads/2014/05/2k_ui.jpg"/>
+		</a>
 		<p>
 		2K UX
 		</p>
 		</div>
 
 		<div class="screenshot graphic-design">
-		<a href="http://wufei.us/active-h2o"></a>
+		<a href="active_h2o.php">
 		<img src="http://wufei.us/wp-content/uploads/2013/07/screenshot_active_h2o.jpg"/>
+		</a>
 		<p>
 		Active H2O
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/gsa-ii"></a>
-		<img src="http://freshbowlfusion.com/wp-content/uploads/2014/09/pandora_vent.jpg"/>
+		<a href="gsa_ii.php">
+		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_gsa2.jpg"/>
+		</a>
 		<p>
 		GSA-II
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/nba_speaker"></a>
+		<a href="nba_speaker.php">
 		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_nba_speaker.jpg"/>
+		</a>
 		<p>
 		NBA:Speaker
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/2k11"></a>
+		<a href="2k11.php">
 		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_2k11.jpg"/>
+		</a>
 		<p>
 		2K11
 		</p>
 		</div>
 
-		<div class="screenshot motion">
-		<a href="http://wufei.us/abraha"></a>
-		<img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_abraha.jpg"/>
-		<p>
-		Abraha
-		</p>
-		</div>
+		
 	</div>
 
 	<div class="column">
@@ -111,40 +110,36 @@
 		</div>
 
 		  <div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/emerging-issues-forum"></a>
+		<a href="emerging_issues_forum.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/03/Comp-1-0001204.jpg"/>
+		</a>
 		<p>
 		Emerging Issues Forum
 		</p>
 		</div>
 
 		  <div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/texturized"></a>
+		<a href="texturized.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/03/opening.c4d-0-00-33-11.jpg"/>
+		</a>
 		<p>
 		Texturized
 		</p>
 		</div>
 
 		  <div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/flourish"></a>
-		<img src="http://wufei.us/wp-content/uploads/2011/02/flourish.jpg"/>
-		<p>
-		Flourish
-		</p>
-		</div> 
-
-		  <div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/norman-mclaren"></a>
+		<a href="norman_mclaren.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/02/Norman2.jpg"/>
+		</a>
 		<p>
 		Norman Mclaren
 		</p>
 		</div> 
 
 		  <div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/light-box"></a>
+		<a href="light_box.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/02/lightbox.jpg"/>
+		</a>
 		<p>
 		Light Box
 		</p>
@@ -152,49 +147,64 @@
 	</div>
 
 	<div class="column">
+		<div class="screenshot motion">
+		<a href="abraha.php">
+		<img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_abraha.jpg"/>
+		</a>
+		<p>
+		Abraha
+		</p>
+		</div>
+	
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/the-book"></a>
+		<a href="the_book.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/02/book.jpg"/>
+		</a>
 		<p>
 		The Book
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/cat_wars"></a>
+		<a href="cat_wars.php">
 		<img src="http://wufei.us/wp-content/uploads/2011/08/Cat-Wars.jpg"/>
+		</a>
 		<p>
 		Cat Wars
 		</p>
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="http://wufei.us/mission-jaguar"></a>
-		<img src="http://freshbowlfusion.com/wp-content/uploads/2014/09/pandora_vent.jpg"/>
+		<a href="mission_jaguar.php">
+		<img src="http://wufei.us/wp-content/uploads/2011/08/Jaguar.jpg"/>
+		</a>
 		<p>
 		Mission Jaguar
 		</p>
 		</div>
 
 		<div class="screenshot graphic-design web-design">
-		<a href="http://wufei.us/design"></a>
+		<a href="cojo.php">
 		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_cojo.gif"/>
+		</a>
 		<p>
 		COJO
 		</p>
 		</div>
 
 		<div class="screenshot photography">
-		<a href="http://wufei.us/photography"></a>
+		<a href="budhha.php">
 		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_budhha.jpg"/>
+		</a>
 		<p>
 		Budhha
 		</p>
 		</div>
 
 		<div class="screenshot graphic-design">
-		<a href="http://wufei.us/visualize"></a>
+		<a href="lotus.php">
 		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_lotus.jpg"/>
+		</a>
 		<p>
 		Lotus
 		</p>

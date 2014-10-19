@@ -25,8 +25,8 @@ DROP TABLE IF EXISTS `projects`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `projects` (
-  `projects_id` int(11) NOT NULL AUTO_INCREMENT,
-  `item` varchar(12) DEFAULT NULL,
+  `projects_id` int(99) NOT NULL AUTO_INCREMENT,
+  `item` varchar(99) DEFAULT NULL,
   PRIMARY KEY (`projects_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
 /*!40101 SET character_set_client = @saved_cs_client */;
@@ -37,7 +37,28 @@ CREATE TABLE `projects` (
 
 LOCK TABLES `projects` WRITE;
 /*!40000 ALTER TABLE `projects` DISABLE KEYS */;
-INSERT INTO `projects` VALUES (1,'meet'),(2,'dealfinder'),(3,'gsa'),(4,'art_to_wear'),(5,'honey_bits');
+INSERT INTO `projects` VALUES 
+(1,'meet'),
+(2,'dealfinder'),
+(3,'abraha'),
+(4,'honey_bits'),
+(5,'gsa'),
+(6,'the_book'),
+(7,'2k_ux'),
+(8,'art_to_wear'),
+(9,'cat_wars'),
+(10,'active_h2o'),
+(11,'emerging_issues_forum'),
+(12,'mission_jaguar'),
+(13,'gsa_ii'),
+(14,'texturized'),
+(15,'cojo'),
+(16,'nba_speaker'),
+(17,'norman_mclaren'),
+(18,'budhha'),
+(19,'2k11'),
+(20,'light_box'),
+(21,'lotus');
 /*!40000 ALTER TABLE `projects` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
