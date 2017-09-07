@@ -7,7 +7,7 @@ $(function(){
 			lng: localStorage.getItem('LNG'),
 			fallbackLng: 'en',
 			backend: {
-				loadPath: '/jadeland/locales/{{lng}}/{{ns}}.json'
+				loadPath: '/locales/{{lng}}/{{ns}}.json'
 			}
     }, function(err, t) {
     });
