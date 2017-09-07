@@ -5,44 +5,34 @@
 <?php include('inc/header.php'); ?>
 
 	<div class="FullPage grid_12">
-	<h3>About</h3>
-	<img src="http://elkind.net/i/banner3.jpg" style="
+	<h3 data-i18n="header.nav2">About</h3>
+	<img src="img/banner4.jpg" style="
     width: 100%;
     margin-top: 1%;
 ">
-	<p>
-	Jade Land is a cross-disciplinary creative agency and production company. We are dedicated to create experiences that marry technology and design seamlessly into great things. We believe in the simple tenet that good design can make better life. 
+<p data-i18n='about.t1'></p>
 
-Jade Land has been making award winning work for many years. Natural collaborators with genuine curiosity about the world, the Jade Land team takes great pride in cultivating ideas from concept to execution.
-
-As designers, engineers, artists, curators, scientists, Jade Land provides a variety of creative services for clients who care about good design. 
-</p>
-
-<h5>Approach</h5>
+<h5 data-i18n='about.t2'></h5>
+<p data-i18n='about.t2d'></p>
 <p>
-We are happy to collaborate with interesting individuals, organizations with the goal of finding unexpected and delightful design solutions. We do this by:
-</p>
-<p>
-● Delicate craftsmanship</br>
-● Out of the box thinking</br>
-● Curating & strategic planning
+● <span data-i18n='about.t2s1'></span></br>
+● <span data-i18n='about.t2s2'></span></br>
+● <span data-i18n='about.t2s3'></span>
 </p>
 
-<h5>Assets</h5>
-
+<h5 data-i18n='about.t3'></h5>
+<p data-i18n='about.t3d'></p>
 <p>
-As designers, engineers, artists, curators, scientists, we provide creative solutions extend across print, digital, broadcast and industrial design; all in the name of delivering the best user experience. To get specific, we do:
-</p>
-<p>
-● Creative & Art Direction</br>
-● Print/Motion/Interactive Design</br>
-● Industrial Design</br>
-● Exhibition Curate</br>
-● Branding</br>
-● Multimedia
+● <span data-i18n='about.t3s1'></span></br>
+● <span data-i18n='about.t3s2'></span></br>
+● <span data-i18n='about.t3s3'></span></br>
+● <span data-i18n='about.t3s4'></span></br>
+● <span data-i18n='about.t3s5'></span></br>
+● <span data-i18n='about.t3s6'></span></br>
+● <span data-i18n='about.t3s7'></span>
 </p>
 
-<h5>Collaborators</h5>
+<h5 data-i18n='about.t4'></h5>
 <ul class="clients">
 <li><img src="img/clients/clients0.jpg"/></li>
 <li><img src="img/clients/clients1.jpg"/></li>

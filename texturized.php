@@ -23,6 +23,7 @@ Client: North Carolina State University</br>
 Role: Independent work</br>
 Sound: Free Play Music
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

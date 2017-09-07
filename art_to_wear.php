@@ -31,6 +31,7 @@ Client: North Carolina State University</br>
 March 1, 2014</br>
 Documentary
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

@@ -10,11 +10,11 @@
 <div class="fit-vids">
 <iframe src="http://player.vimeo.com/video/33315275?title=0&amp;portrait=0" width="894" height="500" frameborder="0"></iframe>
 </div>
-<img src="http://wufei.us/wp-content/uploads/2013/06/2k11_styleframe_1.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/2k11_styleframe_2.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/2k11_styleframe_3.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/2k11_styleframe_4.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/2k11_styleframe_6.jpg"/>
+<img src="img/uploads/2013/06/2k11_styleframe_1.jpg"/>
+<img src="img/uploads/2013/06/2k11_styleframe_2.jpg"/>
+<img src="img/uploads/2013/06/2k11_styleframe_3.jpg"/>
+<img src="img/uploads/2013/06/2k11_styleframe_4.jpg"/>
+<img src="img/uploads/2013/06/2k11_styleframe_6.jpg"/>
 </div>
 <script>
     // Basic FitVids Test
@@ -26,6 +26,7 @@
 NBA 2K11 Promo Video</br>
 Sound: Free Play Music
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

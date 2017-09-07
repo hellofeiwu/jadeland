@@ -13,22 +13,22 @@
 </div>
 <h5>Stats Panel</h5>
 
-<img src="http://wufei.us/wp-content/uploads/2014/05/slab_A_01-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/slab_A_02-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/slab_A_03-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/slab_A_04-760x427.jpg"/>
+<img src="img/uploads/2014/05/slab_A_01-760x427.jpg"/>
+<img src="img/uploads/2014/05/slab_A_02-760x427.jpg"/>
+<img src="img/uploads/2014/05/slab_A_03-760x427.jpg"/>
+<img src="img/uploads/2014/05/slab_A_04-760x427.jpg"/>
 
 <h5>Loading Screen</h5>
 
-<img src="http://wufei.us/wp-content/uploads/2014/05/online_teamup_loading_screen_A_01-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/online_teamup_loading_screen_A_02-760x427.jpg"/>
+<img src="img/uploads/2014/05/online_teamup_loading_screen_A_01-760x427.jpg"/>
+<img src="img/uploads/2014/05/online_teamup_loading_screen_A_02-760x427.jpg"/>
 
 <h5>Traning Camp Menu</h5>
 
-<img src="http://wufei.us/wp-content/uploads/2014/05/training_camp_menu_list_A_01-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/training_camp_menu_list_A_02-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/training_camp_menu_list_A_04-760x427.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2014/05/training_camp_menu_list_A_05-760x427.jpg"/>
+<img src="img/uploads/2014/05/training_camp_menu_list_A_01-760x427.jpg"/>
+<img src="img/uploads/2014/05/training_camp_menu_list_A_02-760x427.jpg"/>
+<img src="img/uploads/2014/05/training_camp_menu_list_A_04-760x427.jpg"/>
+<img src="img/uploads/2014/05/training_camp_menu_list_A_05-760x427.jpg"/>
 </div>
 <script>
     // Basic FitVids Test
@@ -41,6 +41,7 @@ by Ellen Bauer</br>
 March 1, 2014</br>
 Random
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

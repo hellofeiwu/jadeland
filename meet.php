@@ -15,7 +15,7 @@ The current mainstream GPS UX design has been very sophisticated, but most of us
 In this case, I think, letting both parties know each other's location, ensuring the smooth communication, finding a specific meeting point are the three keys to the solution. After these three preconditions got tackled we can let the GPS do the rest to navigate both parties to the same meeting point. Naturally, finding and meeting someone will become easy and pleasant.
 </p>
 <div style="text-align: center;">
-<img src="http://wufei.us/wp-content/uploads/2014/07/GPS_demo.gif">
+<img src="img/uploads/2014/07/GPS_demo.gif">
 </div>
 
 <h5>Innovative features:</h5>
@@ -48,21 +48,25 @@ After the discussion, Tom selected a Nike Store as their meeting point from the 
 </p>
 <h5>Interactive framework:</h5>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/GPS_framework.jpg">
+<img src="img/uploads/2014/07/GPS_framework.jpg">
 
 <h5>Major UI prototypes:</h5>
 <div>
-<a href="http://wufei.us/wp-content/uploads/2014/07/GPS-01-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-01-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-02-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-02-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-03-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-03-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-04-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-04-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-05-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-05-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-06-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-06-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-07-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-07-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-08-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-08-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-09-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-09-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-10-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-10-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-11-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-11-179x300.jpg"></a><a href="http://wufei.us/wp-content/uploads/2014/07/GPS-12-614x1024.jpg"><img src="http://wufei.us/wp-content/uploads/2014/07/GPS-12-179x300.jpg"></a>
+<a href="img/uploads/2014/07/GPS-01-614x1024.jpg"><img src="img/uploads/2014/07/GPS-01-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-02-614x1024.jpg"><img src="img/uploads/2014/07/GPS-02-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-03-614x1024.jpg"><img src="img/uploads/2014/07/GPS-03-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-04-614x1024.jpg"><img src="img/uploads/2014/07/GPS-04-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-05-614x1024.jpg"><img src="img/uploads/2014/07/GPS-05-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-06-614x1024.jpg"><img src="img/uploads/2014/07/GPS-06-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-07-614x1024.jpg"><img src="img/uploads/2014/07/GPS-07-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-08-614x1024.jpg"><img src="img/uploads/2014/07/GPS-08-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-09-614x1024.jpg"><img src="img/uploads/2014/07/GPS-09-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-10-614x1024.jpg"><img src="img/uploads/2014/07/GPS-10-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-11-614x1024.jpg"><img src="img/uploads/2014/07/GPS-11-179x300.jpg"></a><a href="img/uploads/2014/07/GPS-12-614x1024.jpg"><img src="img/uploads/2014/07/GPS-12-179x300.jpg"></a>
 </div>
+
 </div>
 
 <div class="sidebar grid_3">
 <h3>Meet</h3>
 <p>
-by Ellen Bauer</br>
+Client: Baidu</br>
 March 1, 2014</br>
-Random
+App UX
 </p>
+
+<?php include('inc/share.php'); ?>
+
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

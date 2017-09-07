@@ -25,6 +25,7 @@ Role: Designer, Animator, Sound FX</br>
 Art Director: Scott Pryor</br>
 Production: Pixeldust Studio
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

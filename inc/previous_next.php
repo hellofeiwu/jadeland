@@ -1,6 +1,6 @@
 <?php
 	// Create connection
-		$con=mysqli_connect("mysql.hostinger.co.uk","u109766333_jade","jadeland1","u109766333_list0");
+		$con=mysqli_connect("localhost","jadeland","357159","jadeland");
 	// Check connection
 	if (mysqli_connect_errno()) {
 	  echo "Failed to connect to MySQL: " . mysqli_connect_error();

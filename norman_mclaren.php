@@ -25,6 +25,7 @@ Show Opening</br>
 March 1, 2014</br>
 Random
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

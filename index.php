@@ -4,13 +4,22 @@
 ?>
 <?php include('inc/header.php'); ?>
 <div class="content">
+	<div class="fit-vids" id="home-vid">
+	<iframe src="http://player.vimeo.com/video/96211835?title=0&amp;portrait=0" width="1160" height="649" frameborder="0"></iframe>
+	</div>
+
+<script>
+    // Basic FitVids Test
+    $(".fit-vids").fitVids();
+</script>
+
 <ul class="sort">
-  <li><a href="#" data-filter="*">ALL</a></li>
-  <li><a href="#" data-filter=".ux-design">UX&nbsp;DESIGN</a></li>
-  <li><a href="#" data-filter=".graphic-design">GRAPHIC&nbsp;DESIGN</a></li>
-  <li><a href="#" data-filter=".motion">MOTION</a></li>
-  <li><a href="#" data-filter=".web-design">WEB&nbsp;DESIGN</a></li>
-  <li><a href="#" data-filter=".photography">PHOTOGRAPHY</a></li>
+  <li><a href="#" data-filter="*" data-i18n="index.all"></a></li>
+  <li><a href="#" data-filter=".ux-design" data-i18n="index.ux-design"></a></li>
+  <li><a href="#" data-filter=".graphic-design" data-i18n="index.graphic-design"></a></li>
+  <li><a href="#" data-filter=".motion" data-i18n="index.motion"></a></li>
+  <li><a href="#" data-filter=".web-design" data-i18n="index.web-design"></a></li>
+  <li><a href="#" data-filter=".photography" data-i18n="index.photography"></a></li>
 </ul>
 
 <ul class="social">		
@@ -22,14 +31,14 @@
 <div>
 	<div class="column">
 		<div class="screenshot ux-design">
-		<a href="meet.php"><img src="http://wufei.us/wp-content/uploads/2014/07/screenshot_meet.jpg"/></a>
+		<a href="meet.php"><img src="img/uploads/2014/07/screenshot_meet.jpg"/></a>
 		<p>
 		Meet
 		</p>
 		</div>
 
 		<div class="screenshot ux-design graphic-design web-design photography">
-		<a href="honey_bits.php"><img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_honeybits.jpg"/></a>
+		<a href="honey_bits.php"><img src="img/uploads/2014/05/screenshot_honeybits.jpg"/></a>
 		<p>
 		Honey Bits
 		</p>
@@ -37,7 +46,7 @@
 
 		<div class="screenshot ux-design graphic-design motion">
 		<a href="2k_ux.php">
-		<img src="http://wufei.us/wp-content/uploads/2014/05/2k_ui.jpg"/>
+		<img src="img/uploads/2014/05/2k_ui.jpg"/>
 		</a>
 		<p>
 		2K UX
@@ -46,7 +55,7 @@
 
 		<div class="screenshot graphic-design">
 		<a href="active_h2o.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/07/screenshot_active_h2o.jpg"/>
+		<img src="img/uploads/2013/07/screenshot_active_h2o.jpg"/>
 		</a>
 		<p>
 		Active H2O
@@ -55,7 +64,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="gsa_ii.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_gsa2.jpg"/>
+		<img src="img/uploads/2013/06/screenshot_gsa2.jpg"/>
 		</a>
 		<p>
 		GSA-II
@@ -64,7 +73,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="nba_speaker.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_nba_speaker.jpg"/>
+		<img src="img/uploads/2013/06/screenshot_nba_speaker.jpg"/>
 		</a>
 		<p>
 		NBA:Speaker
@@ -73,7 +82,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="2k11.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_2k11.jpg"/>
+		<img src="img/uploads/2013/06/screenshot_2k11.jpg"/>
 		</a>
 		<p>
 		2K11
@@ -86,7 +95,7 @@
 	<div class="column">
 		<div class="screenshot ux-design graphic-design">
 		<a href="dealfinder.php">
-		<img src="http://wufei.us/wp-content/uploads/2014/07/screenshot_dealfinder.jpg"/>
+		<img src="img/uploads/2014/07/screenshot_dealfinder.jpg"/>
 		</a>
 		<p>
 		Dealfinder
@@ -95,7 +104,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="gsa.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/10/GSA-Opening_style_V2_5.jpg"/>
+		<img src="img/uploads/2011/10/GSA-Opening_style_V2_5.jpg"/>
 		</a>
 		<p>
 		GSA
@@ -103,7 +112,7 @@
 		</div>
 
 		<div class="screenshot motion graphic-design">
-		<a href="art_to_wear.php"><img src="http://wufei.us/wp-content/uploads/2011/09/ArtToWear.jpg"/></a>
+		<a href="art_to_wear.php"><img src="img/uploads/2011/09/ArtToWear.jpg"/></a>
 		<p>
 		Art to Wear
 		</p>
@@ -111,7 +120,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="emerging_issues_forum.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/03/Comp-1-0001204.jpg"/>
+		<img src="img/uploads/2011/03/Comp-1-0001204.jpg"/>
 		</a>
 		<p>
 		Emerging Issues Forum
@@ -120,7 +129,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="texturized.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/03/opening.c4d-0-00-33-11.jpg"/>
+		<img src="img/uploads/2011/03/opening.c4d-0-00-33-11.jpg"/>
 		</a>
 		<p>
 		Texturized
@@ -129,7 +138,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="norman_mclaren.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/02/Norman2.jpg"/>
+		<img src="img/uploads/2011/02/Norman2.jpg"/>
 		</a>
 		<p>
 		Norman Mclaren
@@ -138,7 +147,7 @@
 
 		  <div class="screenshot motion graphic-design">
 		<a href="light_box.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/02/lightbox.jpg"/>
+		<img src="img/uploads/2011/02/lightbox.jpg"/>
 		</a>
 		<p>
 		Light Box
@@ -149,7 +158,7 @@
 	<div class="column">
 		<div class="screenshot motion">
 		<a href="abraha.php">
-		<img src="http://wufei.us/wp-content/uploads/2014/05/screenshot_abraha.jpg"/>
+		<img src="img/uploads/2014/05/screenshot_abraha.jpg"/>
 		</a>
 		<p>
 		Abraha
@@ -158,7 +167,7 @@
 	
 		<div class="screenshot motion graphic-design">
 		<a href="the_book.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/02/book.jpg"/>
+		<img src="img/uploads/2011/02/book.jpg"/>
 		</a>
 		<p>
 		The Book
@@ -167,7 +176,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="cat_wars.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/08/Cat-Wars.jpg"/>
+		<img src="img/uploads/2011/08/Cat-Wars.jpg"/>
 		</a>
 		<p>
 		Cat Wars
@@ -176,7 +185,7 @@
 
 		<div class="screenshot motion graphic-design">
 		<a href="mission_jaguar.php">
-		<img src="http://wufei.us/wp-content/uploads/2011/08/Jaguar.jpg"/>
+		<img src="img/uploads/2011/08/Jaguar.jpg"/>
 		</a>
 		<p>
 		Mission Jaguar
@@ -185,7 +194,7 @@
 
 		<div class="screenshot graphic-design web-design">
 		<a href="cojo.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_cojo.gif"/>
+		<img src="img/uploads/2013/06/screenshot_cojo.gif"/>
 		</a>
 		<p>
 		COJO
@@ -194,7 +203,7 @@
 
 		<div class="screenshot photography">
 		<a href="budhha.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_budhha.jpg"/>
+		<img src="img/uploads/2013/06/screenshot_budhha.jpg"/>
 		</a>
 		<p>
 		Budhha
@@ -203,7 +212,7 @@
 
 		<div class="screenshot graphic-design">
 		<a href="lotus.php">
-		<img src="http://wufei.us/wp-content/uploads/2013/06/screenshot_lotus.jpg"/>
+		<img src="img/uploads/2013/06/screenshot_lotus.jpg"/>
 		</a>
 		<p>
 		Lotus

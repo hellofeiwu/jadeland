@@ -10,20 +10,20 @@
 <div class="fit-vids">
 <iframe src="http://player.vimeo.com/video/30965724?title=0&amp;portrait=0" width="894" height="500" frameborder="0"></iframe>
 </div>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_B_01.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_B_02.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_B_03.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_B_04.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_B_05.jpg"/>
+<img src="img/uploads/2013/05/gsa_B_01.jpg"/>
+<img src="img/uploads/2013/05/gsa_B_02.jpg"/>
+<img src="img/uploads/2013/05/gsa_B_03.jpg"/>
+<img src="img/uploads/2013/05/gsa_B_04.jpg"/>
+<img src="img/uploads/2013/05/gsa_B_05.jpg"/>
 <div class="fit-vids">
 <iframe src="http://player.vimeo.com/video/53754024?title=0&amp;portrait=0" width="894" height="500" frameborder="0"></iframe>
 </div>
 <div class="fit-vids">
 <iframe src="http://player.vimeo.com/video/53769672?title=0&amp;portrait=0" width="894" height="500" frameborder="0"></iframe>
 </div>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_C_01.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_C_02.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/05/gsa_D_02.jpg"/>
+<img src="img/uploads/2013/05/gsa_C_01.jpg"/>
+<img src="img/uploads/2013/05/gsa_C_02.jpg"/>
+<img src="img/uploads/2013/05/gsa_D_02.jpg"/>
 </div>
 <script>
     // Basic FitVids Test
@@ -36,6 +36,7 @@
 Client: GSA</br>
 Sound: Free Play Music
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

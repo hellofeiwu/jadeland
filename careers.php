@@ -4,19 +4,19 @@
 ?>
 <?php include('inc/header.php'); ?>
 <div class="FullPage grid_12">
-	<h3>Careers</h3>
-	<img src="http://elkind.net/i/banner1.jpg" style="
+	<h3 data-i18n="header.nav3">Careers</h3>
+	<img src="img/banner2.jpg" style="
     width: 100%;
     margin-top: 1%;
 ">
 
-<h5>Work with Us</h5>
+<h5 data-i18n="careers.t1"></h5>
 <p>
 Want to work with smart, talented, motivated, generally awesome people just like you?</br>
 Speak up! Get in touch with Jade Land.
 </p>
 <p>
-Please send your resume and the demo of your work to <i>hellojadeland@gmail.com</i>.
+Please send your resume and a demo of your work to <i>hellojadeland@gmail.com</i>.
 </p>
 <h5>People We Look for</h5>
 <p>
@@ -32,16 +32,16 @@ Please send your resume and the demo of your work to <i>hellojadeland@gmail.com<
 </p>
 <h5>Internships at Jade Land</h5>
 <p>
+Spring application window:</br>
+<i>Feb 1-May 1</i>
+</p>
+<p>
 Summer application window:</br>
-<i>Feb 1-Apr 1</i>
+<i>May 1-Aug 1</i>
 </p>
 <p>
 Fall application window:</br>
-<i>Jun 1-Aug 15</i>
-</p>
-<p>
-Spring application window:</br>
-<i>Sept 1-Nov 1</i>
+<i>Aug 1-Nov 1</i>
 </p>
 <p>
 

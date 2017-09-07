@@ -50,6 +50,7 @@ Client: Kawthar Media</br>
 March 1, 2014</br>
 Game Promo
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

@@ -1,0 +1,29 @@
+/*media queries*/
+
+/*iphone---------*/
+
+@media screen and (max-width:560px) {
+.logo{
+	font-size:3em;
+	}
+	
+.header .nav {
+	padding:0 0 0 1em;
+	float:none;
+}
+	
+.header .nav li {
+	margin: 0 4.46% 0 0;
+}
+
+.social{
+	font-size: 2.5em;
+}
+
+.footer ul {
+font-size: 2.5em;
+}
+
+}
+
+

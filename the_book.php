@@ -27,10 +27,11 @@ This project has been shown by the Chapel Hill Public Arts Office in June 2010. 
 <div class="sidebar grid_3">
 <h3>The Book</h3>
 <p>
-by Ellen Bauer</br>
-March 1, 2014</br>
-Random
+by Jade Land</br>
+March 1, 2010</br>
+Nonprofit
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

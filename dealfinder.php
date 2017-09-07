@@ -19,33 +19,33 @@ Hence, our goal is to help our users find those hot deals around them, and navig
 </p>
 <h5>Major UI prototypes:</h5>
 <div style="text-align: center;">
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_1-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_1-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_2-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_2-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_3-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_3-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_4-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_4-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_5-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_5-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_6-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_6-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_7-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_7-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_8-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_8-1024x809.jpg"/>
 
-<img src="http://wufei.us/wp-content/uploads/2014/07/dealfinder_9-1024x809.jpg"/>
+<img src="img/uploads/2014/07/dealfinder_9-1024x809.jpg"/>
 </div>
 </div>
 
 <div class="sidebar grid_3">
 <h3>Dealfinder</h3>
 <p>
-by Ellen Bauer</br>
 March 1, 2014</br>
 IBM
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

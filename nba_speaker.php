@@ -7,13 +7,13 @@
 
 <div class="content-left grid_9">
 <h4>NBA:Speaker</h4>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_7.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_1.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_2.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_3.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_4.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_5.jpg"/>
-<img src="http://wufei.us/wp-content/uploads/2013/06/nba_speaker_styleframe_6.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_7.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_1.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_2.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_3.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_4.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_5.jpg"/>
+<img src="img/uploads/2013/06/nba_speaker_styleframe_6.jpg"/>
 </div>
 
 <div class="sidebar grid_3">
@@ -23,6 +23,7 @@ NBA 2K11 Promo video style frames</br>
 March 1, 2014</br>
 Random
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

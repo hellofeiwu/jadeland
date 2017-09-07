@@ -5,7 +5,7 @@
 <?php include('inc/header.php'); ?>
 <div class="FullPage grid_12">
 	<h3>Contact</h3>
-	<img src="http://elkind.net/i/banner2.jpg" style="
+	<img src="img/banner5.jpg" style="
     width: 100%;
     margin-top: 1%;
 ">
@@ -15,7 +15,7 @@ We'd love to hear great ideas about your projects!</p>
 <h5>Get in Touch</h5>
 <p>
 <i class="fa fa-envelope-square"></i> hellojadeland@gmail.com</br>
-<i class="fa fa-phone-square"></i> +1.919.564.6241
+<i class="fa fa-phone-square"></i> +1.404.834.4418
 </p>
 <h5>Company Addresses</h5>
 <p>

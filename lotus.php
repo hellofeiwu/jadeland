@@ -7,16 +7,16 @@
 
 <div class="content-left grid_9">
 <h4>Lotus Architecture Visualize</h4>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1190976159.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1190976159.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1190976184.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1190976184.jpg"/></a>
+<a href="img/uploads/2011/03/1190976159.jpg"><img src="img/uploads/2011/03/1190976159.jpg"/></a>
+<a href="img/uploads/2011/03/1190976184.jpg"><img src="img/uploads/2011/03/1190976184.jpg"/></a>
 
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191896545.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191896545.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191896596.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191896596.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191896805.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191896805.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191896899.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191896899.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191896852.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191896852.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191982997.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191982997.jpg"/></a>
-<a href="http://wufei.us/wp-content/uploads/2011/03/1191983198.jpg"><img src="http://wufei.us/wp-content/uploads/2011/03/1191983198.jpg"/></a>
+<a href="img/uploads/2011/03/1191896545.jpg"><img src="img/uploads/2011/03/1191896545.jpg"/></a>
+<a href="img/uploads/2011/03/1191896596.jpg"><img src="img/uploads/2011/03/1191896596.jpg"/></a>
+<a href="img/uploads/2011/03/1191896805.jpg"><img src="img/uploads/2011/03/1191896805.jpg"/></a>
+<a href="img/uploads/2011/03/1191896899.jpg"><img src="img/uploads/2011/03/1191896899.jpg"/></a>
+<a href="img/uploads/2011/03/1191896852.jpg"><img src="img/uploads/2011/03/1191896852.jpg"/></a>
+<a href="img/uploads/2011/03/1191982997.jpg"><img src="img/uploads/2011/03/1191982997.jpg"/></a>
+<a href="img/uploads/2011/03/1191983198.jpg"><img src="img/uploads/2011/03/1191983198.jpg"/></a>
 
 </div>
 
@@ -26,6 +26,7 @@
 March 1, 2014</br>
 Architecture Visualize
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>

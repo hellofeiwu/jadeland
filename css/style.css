@@ -76,6 +76,19 @@ list-style: none;
 }
 .header .nav li a:hover, .header .nav li a:active {color: #C7A500;}
 
+.language {
+	font-size: 0.7em;
+	margin-bottom: -1.2%;
+	margin-left: 93%;
+	text-align: right;
+}
+
+.language a {
+	color: #C7A500;
+}
+
+.language a:hover {color: #222;}
+
 .content {
 	width:100%;
 	text-align: center;
@@ -94,6 +107,10 @@ list-style: none;
 
 .content-left img, .fit-vids {
 	margin-bottom: 1%;
+}
+
+#home-vid {
+	margin: 2% 1.5% 0 1.5%;
 }
 
 .FullPage {
@@ -256,6 +273,18 @@ margin: 0 0.6em;
 	color:#999;
 }
 
+.share span {
+	margin-bottom: 2%;
+}
+
+.share-button{
+	color:#C7A500;
+}
+
+.share-button i{
+	margin-bottom: 2%;
+}
+
 /**** Isotope filtering ****/
 
 .isotope-item {
@@ -337,7 +366,7 @@ margin: 0 0.6em;
 
 .grid_1,
 .grid_2,
-.grid_3,
+
 .grid_4,
 .grid_5,
 .grid_6,
@@ -389,6 +418,11 @@ margin: 0 0.6em;
 
 .header .nav li a {
     padding: 0.625em 0; /*** <a> height will be diffrent if change to % ***/
+}
+
+.language {
+	margin-left: 0;
+	text-align: center;
 }
 	
 .column {

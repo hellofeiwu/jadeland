@@ -30,6 +30,7 @@ During the shooting session, I mounted the camera onto a crane to get the straig
 March 1, 2014</br>
 Promotional Video
 </p>
+<?php include('inc/share.php'); ?>
 <!-- Previous/Next -->
 
 <?php include('inc/previous_next.php'); ?>
